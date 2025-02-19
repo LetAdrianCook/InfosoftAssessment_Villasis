@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfosoftAssessment_Villasis", "InfosoftAssessment_Villasis.csproj", "{04784154-11CE-418F-AE2B-B7CEA3311290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04784154-11CE-418F-AE2B-B7CEA3311290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04784154-11CE-418F-AE2B-B7CEA3311290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04784154-11CE-418F-AE2B-B7CEA3311290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04784154-11CE-418F-AE2B-B7CEA3311290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F0F8C0-C813-42B4-936E-9B43B82913D7}
+	EndGlobalSection
+EndGlobal
